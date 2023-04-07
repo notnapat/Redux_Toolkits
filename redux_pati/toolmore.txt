@@ -1,0 +1,7 @@
+ติดตั้ง vite ใน command windo 
+  - npm create vite@latest
+  - cd เข้าโปรเจค 
+    - npm i
+
+command in vscode
+  - npm i @reduxjs/toolkit axios react-redux react-router-dom sass
